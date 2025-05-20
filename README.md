@@ -20,3 +20,4 @@ Utilize visualizations such as bar plots, pie charts etc., to represent:
   
 ## Conclusion:
 The Kreazzy Finance Dashboard empowers decision-makers by offering real-time, visually engaging, and data-driven insights into the company’s financial performance. By consolidating key metrics into a single interface
+![image](https://github.com/user-attachments/assets/7c72fa14-80fb-46fc-a143-b36b6c4c6d5e)
